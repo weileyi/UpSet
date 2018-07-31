@@ -1,6 +1,6 @@
 {
 	"file": "https://github.com/weileyi/UpSet/blob/master/UpSetCSV.csv",
-	"name": "Test",
+	"name": "Feature",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
